@@ -1,0 +1,13 @@
+{
+    "APPNAME": "Angular Application",
+    "CODENAME": "AA",
+    "VERSION": "1.0.0",
+    "CUSTOMER": "DEMO",
+    "LICENCE": "DEMO",
+    "REST_API_SERVER": "http://127.0.0.1",
+    "REALTIME_API_SERVER": "http://127.0.0.1:4433",
+    "REST_API_ENPOINT": "api",
+    "REST_API_VERSION": "v1.0.0",
+    "PROD": false,
+    "LOGS": false
+}

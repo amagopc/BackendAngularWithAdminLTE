@@ -1,0 +1,12 @@
+{
+  "/api": {
+    "target": "http://[::1]:9999",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug",
+    "headers": {
+      "Connection": "keep-alive"
+    },
+    "pathRewrite": { "^/api": "" }
+  }
+}
