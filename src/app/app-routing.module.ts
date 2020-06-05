@@ -9,7 +9,7 @@ import { LoginComponent } from './pages/login/login.component';
 const routes: Routes = [
 {
   path: '',
-  redirectTo: 'login',
+  redirectTo: '404.html',
   pathMatch: 'full'
 },
 {
